@@ -18,5 +18,6 @@ This repository contains the research and implementation for the "Disentangled R
 * **Error Reduction:** Successfully minimized the translation error to 1.27 cm and the rotation error to $4.91^{\circ}$ by preventing gradient conflicts between geometric and semantic tasks.
 
 ## Team & Acknowledgements
-This research was conducted at Politecnico di Torino. 
+This research was conducted at Politecnico di Torino.
+
 **Authors / Team:** Nejla Dinçer, Mustafa Burak Erkoçak, Can Ersoy, and Barış Tan Ünal.
